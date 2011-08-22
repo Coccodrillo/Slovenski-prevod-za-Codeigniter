@@ -19,6 +19,9 @@ $lang['regex_match']		= "Polje %s ni pravilno oblikovano.";
 $lang['matches']			= "Vrednost polja %s ni enaka polju %s .";
 $lang['is_natural']			= "Polje %s lahko vsebuje le naravna števila.";
 $lang['is_natural_no_zero']	= "Polje %s mora vsebovati število, večje od nič.";
+$lang['decimal']			= "Polje %s mora vsebovati decimalno število.";
+$lang['less_than']			= "Polje %s mora vsebovati število, manjše od %s.";
+$lang['greater_than']		= "Polje %s mora vsebovati število, večje od %s.";
 
 
 /* End of file form_validation_lang.php */
