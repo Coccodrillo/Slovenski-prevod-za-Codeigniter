@@ -17,13 +17,13 @@ Dodal prevode za nova pravila form validation - decimal, manj kot, več kot.
 
 ###Usage:
 
-Probably not needed, but still... Copy to system/language folder and set language to slovenian in application/config.php file.
+Probably not needed, but still... Copy to system/language/slovenian folder and set language to slovenian in application/config.php file.
 
 <pre>$config['language'] = 'slovenian';</pre>
 
 ###Raba:
 
-Verjetno ni treba posebej opisovati, pa vendarle... Kopiraj v mapo system/language in v datoteki application/config.php nastavi spremenljivko language na slovenian.
+Verjetno ni treba posebej opisovati, pa vendarle... Kopiraj v mapo system/language/slovenian in v datoteki application/config.php nastavi spremenljivko language na slovenian.
 
 <pre>$config['language'] = 'slovenian';</pre>
 
