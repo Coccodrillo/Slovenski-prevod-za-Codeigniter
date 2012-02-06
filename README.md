@@ -1,29 +1,44 @@
-#Slovenian Translation for Codeigniter, Version 2.0.3
+#Slovenian Translation for Codeigniter, Version 2.1.0
 
-#Slovenski prevod za Codeigniter, Različica 2.0.3
+#Slovenski prevod za Codeigniter, Različica 2.1.0
 
 
 ##Changes since last version
 
-Added new translations - decimal, less than, greater than - for form validation class.
+Updated changes in date_lang.php, as changed from 2.0.3 version (Changes to Moscow and Samoa time zones)
 
 ------------
 
 ##Spremembe od zadnje različice
 
-Dodal prevode za nova pravila form validation - decimal, manj kot, več kot.
+Posodobil spremembe v date_lang.php, spremenjene od verzije 2.0.3 (Spremenjene časovne cone - Moskva in Samoa).
 
 ------------
 
 ###Usage:
 
-Probably not needed, but still... Copy to system/language/slovenian folder and set language to slovenian in application/config.php file.
+Probably not needed, but still... Copy to system/language/slovenian folder or just
+
+<pre>
+	cd /path/to/your/CI/system/language/
+	git clone git://github.com/Coccodrillo/Slovenski-prevod-za-Codeigniter.git slovenian
+</pre>
+
+and set language to slovenian in application/config.php file
 
 <pre>$config['language'] = 'slovenian';</pre>
 
+
 ###Raba:
 
-Verjetno ni treba posebej opisovati, pa vendarle... Kopiraj v mapo system/language/slovenian in v datoteki application/config.php nastavi spremenljivko language na slovenian.
+Verjetno ni treba posebej opisovati, pa vendarle... Kopiraj v mapo system/language/slovenian ali
+
+<pre>
+	cd /path/to/your/CI/system/language/
+	git clone git://github.com/Coccodrillo/Slovenski-prevod-za-Codeigniter.git slovenian
+</pre>
+
+in v datoteki application/config.php nastavi spremenljivko language na slovenian
 
 <pre>$config['language'] = 'slovenian';</pre>
 
